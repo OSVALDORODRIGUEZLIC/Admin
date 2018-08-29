@@ -5,7 +5,7 @@ import java.util.Queue;
 
 // TODO: Auto-generated Javadoc
 /**
- * The Class Parcela.
+ * The Class Parcela
  */
 public class Parcela {
 
