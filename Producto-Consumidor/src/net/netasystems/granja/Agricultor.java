@@ -1,8 +1,8 @@
 package net.netasystems.granja;
-
+ 
 // TODO: Auto-generated Javadoc
 /**
- * The Class Agricultor.
+ * The Class Agricultor..
  */
 public class Agricultor implements Runnable{
 
