@@ -1,0 +1,71 @@
+src/Estudiantes.java:2:	All classes and interfaces must belong to a named package
+src/Estudiantes.java:2:	The class 'Estudiantes' has a Cyclomatic Complexity of 2 (Highest = 10).
+src/Estudiantes.java:2:	The class 'Estudiantes' has a Modified Cyclomatic Complexity of 2 (Highest = 10).
+src/Estudiantes.java:2:	The class 'Estudiantes' has a Standard Cyclomatic Complexity of 2 (Highest = 10).
+src/Estudiantes.java:2:	headerCommentRequirement Required
+src/Estudiantes.java:4:	Document empty constructor
+src/Estudiantes.java:4:	publicMethodCommentRequirement Required
+src/Estudiantes.java:8:	Parameter 'matricula' is not assigned and could be declared final
+src/Estudiantes.java:8:	Parameter 'nombre' is not assigned and could be declared final
+src/Estudiantes.java:8:	publicMethodCommentRequirement Required
+src/Estudiantes.java:13:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Estudiantes.java:13:	fieldCommentRequirement Required
+src/Estudiantes.java:14:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/Estudiantes.java:14:	fieldCommentRequirement Required
+src/Estudiantes.java:16:	publicMethodCommentRequirement Required
+src/Estudiantes.java:19:	Parameter 'nombre' is not assigned and could be declared final
+src/Estudiantes.java:19:	publicMethodCommentRequirement Required
+src/Estudiantes.java:22:	publicMethodCommentRequirement Required
+src/Estudiantes.java:25:	Parameter 'matricula' is not assigned and could be declared final
+src/Estudiantes.java:25:	publicMethodCommentRequirement Required
+src/Estudiantes.java:29:	publicMethodCommentRequirement Required
+src/Estudiantes.java:30:	Avoid using final local variables, turn them into fields
+src/Estudiantes.java:31:	Found 'DD'-anomaly for variable 'result' (lines '31'-'32').
+src/Estudiantes.java:37:	Parameter 'obj' is not assigned and could be declared final
+src/Estudiantes.java:37:	The method 'equals' has a Cyclomatic Complexity of 10.
+src/Estudiantes.java:37:	The method 'equals' has a Modified Cyclomatic Complexity of 10.
+src/Estudiantes.java:37:	The method 'equals' has a Standard Cyclomatic Complexity of 10.
+src/Estudiantes.java:37:	publicMethodCommentRequirement Required
+src/Estudiantes.java:38:	Avoid using if statements without curly braces
+src/Estudiantes.java:39:	A method should have only one exit point, and that should be the last statement in the method
+src/Estudiantes.java:40:	Avoid using if statements without curly braces
+src/Estudiantes.java:41:	A method should have only one exit point, and that should be the last statement in the method
+src/Estudiantes.java:42:	Avoid using if statements without curly braces
+src/Estudiantes.java:43:	A method should have only one exit point, and that should be the last statement in the method
+src/Estudiantes.java:44:	Local variable 'other' could be declared final
+src/Estudiantes.java:46:	Avoid using if statements without curly braces
+src/Estudiantes.java:47:	A method should have only one exit point, and that should be the last statement in the method
+src/Estudiantes.java:48:	Avoid using if statements without curly braces
+src/Estudiantes.java:49:	A method should have only one exit point, and that should be the last statement in the method
+src/Estudiantes.java:51:	Avoid using if statements without curly braces
+src/Estudiantes.java:52:	A method should have only one exit point, and that should be the last statement in the method
+src/Estudiantes.java:53:	Avoid using if statements without curly braces
+src/Estudiantes.java:54:	A method should have only one exit point, and that should be the last statement in the method
+src/Estudiantes.java:58:	publicMethodCommentRequirement Required
+src/Main.java:6:	All classes and interfaces must belong to a named package
+src/Main.java:6:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/Main.java:6:	Avoid short class names like Main
+src/Main.java:6:	headerCommentRequirement Required
+src/Main.java:8:	Found 'UR'-anomaly for variable 'o' (lines '8'-'27').
+src/Main.java:8:	Parameter 'args' is not assigned and could be declared final
+src/Main.java:8:	publicMethodCommentRequirement Required
+src/Main.java:10:	System.out.println is used
+src/Main.java:14:	Local variable 'listaEstudiante' could be declared final
+src/Main.java:16:	Local variable 'Est1' could be declared final
+src/Main.java:16:	Variables should start with a lowercase character, 'Est1' starts with uppercase character.
+src/Main.java:17:	Local variable 'Est2' could be declared final
+src/Main.java:17:	Variables should start with a lowercase character, 'Est2' starts with uppercase character.
+src/Main.java:18:	Local variable 'Est3' could be declared final
+src/Main.java:18:	Variables should start with a lowercase character, 'Est3' starts with uppercase character.
+src/Main.java:26:	Local variable 'o' could be declared final
+src/Main.java:27:	Avoid variables with short names like c
+src/Main.java:27:	Local variable 'c' could be declared final
+src/Main.java:28:	System.out.println is used
+src/Main.java:30:	System.out.println is used
+src/Main.java:31:	System.out.println is used
+src/Main.java:35:	Local variable 'EstudiantesSet' could be declared final
+src/Main.java:35:	Variables should start with a lowercase character, 'EstudiantesSet' starts with uppercase character.
+src/Main.java:40:	Local variable 'o' could be declared final
+src/Main.java:41:	Avoid variables with short names like c
+src/Main.java:41:	Local variable 'c' could be declared final
+src/Main.java:42:	System.out.println is used
