@@ -10,7 +10,7 @@ import java.util.List;
 public class Receta {
 	
 	/** The nombre. */
-	private String nombre;
+	private String nombre ;
 	
 	/** The autor. */
 	private String autor;
